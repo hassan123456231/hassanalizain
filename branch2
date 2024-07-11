@@ -1,0 +1,4 @@
+echo '<script>function branch2Function() { console.log("Function in branch 2"); }</script>' >> resume.html
+git add resume.html
+git commit -m "Add function to branch 2"
+git push origin branch2

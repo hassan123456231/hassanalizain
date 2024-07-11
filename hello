@@ -1,3 +1,11 @@
-this is my file
+
+echo "# hassanalizain" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hassan123456231/hassanalizain.git
+git push -u origin main
+this is my aws file
 https://hassanalizain.s3.us-east-2.amazonaws.com/hassan.txt
 

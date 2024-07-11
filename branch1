@@ -1,0 +1,6 @@
+git checkout branch1
+
+echo '<script>function branch1Function() { console.log("Function in branch 1"); }</script>' >> resume.html
+git add resume.html
+git commit -m "Add function to branch 1"
+git push origin branch1

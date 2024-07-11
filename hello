@@ -1,0 +1,4 @@
+# Assuming your HTML file is named resume.html
+git add resume.html
+git commit -m "Add HTML resume file"
+git push origin main
